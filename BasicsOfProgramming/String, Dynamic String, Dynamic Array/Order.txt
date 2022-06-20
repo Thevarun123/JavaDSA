@@ -1,0 +1,6 @@
+1) Print All Palindromic Substrings
+2) String Compression
+3) Toggle Optica Document
+4) String With Difference Of Every Two Consecutive Characters
+5) Remove Primes
+6) Print All Permutations Of A String Iteratively

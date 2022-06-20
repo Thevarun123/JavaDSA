@@ -1,0 +1,29 @@
+You are given a n*m matrix where n are the number of rows and m are the number of columns. You are also given n*m numbers representing the elements of the matrix.
+You will be given a ring number 's' representing the ring of the matrix. For details, refer to image.
+
+shell-rotate
+
+You will be given a number 'r' representing number of rotations in an anti-clockwise manner of the specified ring.
+You are required to rotate the 's'th ring by 'r' rotations and display the rotated matrix.
+
+Constraints
+1 <= n <= 10^2
+1 <= m <= 10^2
+-10^9 <= e11, e12, .. n * m elements <= 10^9
+0 < s <= min(n, m) / 2
+-10^9 <= r <= 10^9
+
+Format
+Input
+A number n
+A number m
+e11
+e12..
+e21
+e22..
+.. n * m number of elements of array a
+A number s
+A number r
+
+Output
+output is handled by display function

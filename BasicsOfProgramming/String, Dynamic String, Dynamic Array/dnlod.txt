@@ -1,0 +1,26 @@
+Level - 2 content to download: 
+1) stacks - (done)
+
+2) Linked list (done)
+
+3) Trees:
+Binary tree - https://www.youtube.com/watch?v=oz17ihxBxgU&list=PL-Jc9J83PIiHgjQ9wfJ8w-rXU368xNX4L
+Trees - https://www.youtube.com/watch?v=2Hn_dhDbHRE&list=PL-Jc9J83PIiHa798KUw-6WVxkey0Afl0Y
+
+4) Hashmap and heaps (sumeet malik) - https://www.youtube.com/watch?v=bit4Jn-ZoyQ&list=PL-Jc9J83PIiEp9DKNiaQyjuDeg3XSoVMR
+
+5) Graphs - https://www.youtube.com/watch?v=R3AJoOBVAlg&list=PL-Jc9J83PIiEuHrjpZ9m94Nag4fwAvtPQ
+
+6) Searching and sorting - https://www.youtube.com/watch?v=aGMzcfWsdWE&list=PL-Jc9J83PIiHhXKonZxk7gbEWsmSYP5kq
+
+7) Arrays and strigs - https://www.youtube.com/watch?v=738Dy3D-q-E&list=PL-Jc9J83PIiE-TR27GB7V5TBLQRT5RnSl
+
+8) Trie 
+
+9) Recursion and backtracking : 
+Recursion and backtracking - https://www.youtube.com/watch?v=LliQjLnbhx8&list=PLcg9PGsf43LgHt0T0-k3Rn3NyxBSxBtA0
+Backtracking - https://www.youtube.com/watch?v=LliQjLnbhx8&list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0
+
+10) Bit manipulation - https://www.youtube.com/watch?v=v62IKeJtj0k&list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe
+
+11) 

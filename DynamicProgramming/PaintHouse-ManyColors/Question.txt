@@ -1,0 +1,17 @@
+ nth house with one of the k colors.
+3. You are required to calculate and print the minimum cost of painting all houses without painting any consecutive house with same color.
+
+Constraints
+1 <= n <= 1000
+1 <= k <= 10
+0 <= n1-0th, n1-1st, .. <= 1000
+
+Format
+Input
+A number n
+n1-0th n1-1st n1-2nd .. n1-kth
+n2-0th n2-1st n2-2nd .. n2-kth
+.. n number of elements
+
+Output
+A number representing the minimum cost of painting all houses without painting any consecutive house with same color.

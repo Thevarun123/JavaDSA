@@ -1,0 +1,24 @@
+1. Each digit (0 to 9) denotes the student of the Optica Student community.
+
+2. You are given a number n where ith digit denotes that ith task that is assigned to the corresponding digit student.
+
+2. You are given a digit d denotes a student.
+
+3. You are required to calculate the frequency of digit d in number n or how many tasks are assigned to student d.
+
+
+
+
+
+
+Constraints
+0 <= n <= 10^9 0 <= d <= 9
+
+
+Format
+Input
+A number n A digit d
+
+
+Output
+A number representing frequency of digit d in number n

@@ -1,0 +1,14 @@
+1. You are given an ArrayList of positive integers. 2. You have to remove prime numbers from the given ArrayList and return the updated ArrayList. Note -> The order of elements should remain same.
+
+
+Constraints
+1 <= N <= 10000
+
+
+Format
+Input
+A number N arr1 arr2.. N numbers
+
+
+Output
+An Arraylist

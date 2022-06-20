@@ -1,0 +1,15 @@
+1) Print Z
+2) Grading System
+3) Is A Number Prime
+4) Print All Primes Till N
+5) Print Fibonacci Numbers Till N
+6) Count Digits In A Number
+7) Digits Of A Number 
+8) Reverse A Number
+9) Reverse A Number 
+10) Rotate A Number 
+11) Inverse Of A Number 
+12) GCD And LCM 
+13) Prime Factorisation Of A Number 
+14) The Curious Case Of Benjamin Bulbs 
+15) Pythagorus Triplet 

@@ -1,0 +1,19 @@
+1) Digit Frequency 
+2) Deciamal To Any Base
+3) Any Base to Decimal 
+4) Any Base to Any Base
+5) Any Base Addition
+6) Any Base Subtraction
+7) Any Base Multiplication
+8) Span Of Array
+9) Find Elements In An Array
+10) Bar Chart 
+11) Sum Of Two Array
+12) Difference Of Two Arrays
+13) Reverse An Array
+14) Rotate An Array
+15) Inverse Of An Array
+16) Subarray Problem 
+17) Subsets Of Array
+18) Broken Economy 
+19) First Index And Last Index

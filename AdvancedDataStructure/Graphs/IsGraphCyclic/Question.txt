@@ -1,0 +1,12 @@
+1. You are given a graph.
+2. You are required to find and print if the graph is cyclic.
+
+Constraints
+None
+
+Format
+Input
+Input has been managed for you
+
+Output
+true if the graph is cyclic, false otherwise

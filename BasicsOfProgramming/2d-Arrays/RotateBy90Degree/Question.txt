@@ -1,0 +1,20 @@
+1. You are given a number n, representing the number of rows and number of columns.
+2. You are given n*n numbers, representing elements of 2d array a.
+3. You are required to rotate the matrix by 90 degree clockwise and then display the contents using display function.
+*Note - you are required to do it in-place i.e. no extra space should be used to achieve it .*
+
+Constraints
+1 <= n <= 10^2
+-10^9 <= e1, e2, .. n * n elements <= 10^9
+
+Format
+Input
+A number n
+e11
+e12..
+e21
+e22..
+.. n * n number of elements
+
+Output
+output is taken care of by display function

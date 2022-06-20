@@ -1,0 +1,18 @@
+1. You are given an array(arr) of integers.
+2. You have to find the k-th smallest element in the given array using the quick-select algorithm.
+
+Constraints
+1 <= N <= 100000
+-10^9 <= arr[i] <= 10^9
+1 <= k <= N
+
+Format
+Input
+An Integer n 
+arr1
+arr2..
+n integers
+An integer k
+
+Output
+Check the sample output and question video.

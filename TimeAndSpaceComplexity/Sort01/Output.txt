@@ -1,0 +1,8 @@
+Swapping index 0 and index 0
+Swapping index 2 and index 1
+Swapping index 4 and index 2
+0
+0
+0
+1
+1

@@ -1,0 +1,10 @@
+1) 2d Arrays Demo 
+2) Matrix Multiplication
+3) The State Of Wakanda-1
+4) Spiral Display
+5) Exit Point Of A Matrix
+6) Rotate By 90 Degree
+7) Ring Rotate
+8) The State Of Wakanda-2
+9) Saddle Price
+10) Search In A Sorted 2d Array
